@@ -24,7 +24,7 @@ JSON for data storage
 
 Clone this repository:
 
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/Sutrequito/task-manager.git
 
 
 Navigate into the project:
