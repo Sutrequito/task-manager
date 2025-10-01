@@ -10,7 +10,7 @@ Add new tasks
 
 View all saved tasks
 
-Mark tasks as done (planned for future update)
+Mark tasks as done (new)
 
 Data stored in tasks.json
 
