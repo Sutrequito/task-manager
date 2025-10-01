@@ -55,4 +55,4 @@ Add a simple GUI
 
 👨‍💻 Author
 
-Created by Rodrigo – always learning and building 🚀
+Created by Rodrigo Siboldi – always learning and building 🚀
