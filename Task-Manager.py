@@ -17,7 +17,7 @@ def save_tasks(tasks):
 
 def add_task(task):
     tasks = load_tasks()
-    tasks.append({"laundry": task, "done": False})
+    tasks.append({"task": task, "done": False})
     save_tasks(tasks)
     print(f"✅ Task added: {task}")
 
@@ -63,4 +63,5 @@ if __name__ == "__main__":
             break  
         else:
             print("⚠ Invalid option")
+
 
